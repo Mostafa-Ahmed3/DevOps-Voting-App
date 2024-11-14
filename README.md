@@ -3,7 +3,8 @@
 Deploying app on Kubernetes
 ## Architecture
 
-![Voting architecture excalidraw](https://github.com/user-attachments/assets/46d53d8b-7c49-4ac3-b5e9-5003926a124c)
+![architecture](https://github.com/user-attachments/assets/ea132ba4-3d41-4872-886e-2473099202b7)
+
 
 A front-end web app in Python which lets you vote between two options
 
